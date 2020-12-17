@@ -1,0 +1,4 @@
+Takes two arguments in terminal: 
+X for the length of the list (temperature points)
+T for the number of time units to pass 
+returns list after every 1 time unit (function is not recursive there was no point in doing so)

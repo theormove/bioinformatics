@@ -1,0 +1,1 @@
+This program takes either u U or l L as input in terminal and return minimum and dmaximum amount of friday 13s in usual or leap year respectively.
